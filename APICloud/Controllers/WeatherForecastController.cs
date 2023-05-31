@@ -25,7 +25,7 @@ namespace APICloud.Controllers
         //     return actualizacion;
         // }
         public string Get(){
-            return "v1";
+            return "v2";
         }
     }
 }
